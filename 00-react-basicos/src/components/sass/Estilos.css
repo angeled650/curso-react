@@ -1,0 +1,7 @@
+.bg-sass {
+  background-color: #bf4080;
+  transition: background-color 0.5s ease-in-out;
+}
+.bg-sass:hover {
+  background-color: rgba(191, 64, 128, 0.5019607843);
+}/*# sourceMappingURL=Estilos.css.map */
