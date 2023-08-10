@@ -1,0 +1,34 @@
+{
+  "persona": [
+    {
+      "id": 0,
+      "persona": "Orpheus",
+      "arcana": "Fool"
+    },
+    {
+      "id": 1,
+      "persona": "Thanatos",
+      "arcana": "Death"
+    },
+    {
+      "id": 2,
+      "persona": "Arsene",
+      "arcana": "Fool"
+    },
+    {
+      "id": 3,
+      "persona": "Io",
+      "arcana": "Lovers"
+    },
+    {
+      "id": 4,
+      "persona": "Thor",
+      "arcana": "Chariot"
+    },
+    {
+      "id": 5,
+      "persona": "Juno",
+      "arcana": "Priestess"
+    }
+  ]
+}

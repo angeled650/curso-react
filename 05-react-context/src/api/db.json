@@ -1,0 +1,39 @@
+{
+  "persona": [
+    {
+      "id": 0,
+      "persona": "Orpheus",
+      "arcana": "Fool"
+    },
+    {
+      "id": 1,
+      "persona": "Thanatos",
+      "arcana": "Death"
+    },
+    {
+      "id": 2,
+      "persona": "Arsene",
+      "arcana": "Fool"
+    },
+    {
+      "id": 3,
+      "persona": "Io",
+      "arcana": "Lovers"
+    },
+    {
+      "id": 4,
+      "persona": "Thor",
+      "arcana": "Chariot"
+    },
+    {
+      "id": 5,
+      "persona": "Juno",
+      "arcana": "Priestess"
+    },
+    {
+      "id": "c52b56c1-0275-4bab-9be2-417cb2834695",
+      "persona": "Captain Kidd",
+      "arcana": "Chariot"
+    }
+  ]
+}
